@@ -1,0 +1,311 @@
+<resources>
+    <string name="app_name">Bzzhub</string>
+
+    <string name="map_api_key">AIzaSyD8kL6OfvHjqRsQsIHauXVLfY7rPFywnJg</string>
+    <string name="channel_id">BzHub_Channel_id</string>
+    <!--    Texts in Onboarding flow-->
+    <string name="str_skip">Skip</string>
+    <string name="str_connect">Connect</string>
+    <string name="str_txt_connect">Connect to many companies offering the best
+Jobs and services near you on BzzHub</string>
+    <string name="str_next">Next</string>
+
+    <string name="str_global_business">Global Business</string>
+    <string name="str_content_global_business">Discover Business Categories\nAround the World</string>
+    <string name="str_search">Search</string>
+    <string name="str_content_search">Discover Restaurants offering the best
+fast food near you on Foodwa</string>
+
+    <!--    Texts in Login flow-->
+    <string name="str_welcome">Welcome back!</string>
+    <string name="str_email_address">Email Address</string>
+    <string name="str_password">Password</string>
+    <string name="str_remember_me">Remember Me</string>
+    <string name="str_forgot_password">Forgot Password?</string>
+    <string name="str_or">OR</string>
+    <string name="str_facebook">Facebook</string>
+    <string name="str_login">Login</string>
+    <string name="str_dont_have_account">Don"\'"t have an account?</string>
+    <string name="str_join_us">Join Us</string>
+    <string name="str_empty_email">Please input email.</string>
+    <string name="str_invalid_email">Please enter valid email.</string>
+    <string name="str_empty_password">Please enter password.</string>
+    <string name="str_invalid_password">Password should be at least 6 characters.</string>
+    <string name="str_member">Member</string>
+    <string name="str_company">Company</string>
+    <string name="str_name">Name*</string>
+    <string name="str_email">Email*</string>
+    <string name="str_mobile">Mobile*</string>
+    <string name="str_password_sign_up">Password*</string>
+    <string name="str_confirm_password">Confirm Password*</string>
+    <string name="str_accept_term_policy">I accept the Tmam Hub Privacy Policy (including
+the use of cookies) and the terms &amp; Conditions.</string>
+    <string name="str_join_now">Join now</string>
+    <string name="str_or_sign_in">Or Sign in</string>
+    <string name="str_company_name">Company Name*</string>
+    <string name="str_category">Category*</string>
+    <string name="str_business_category">Business Category*</string>
+    <string name="str_select">- Select -</string>
+
+    <string name="str_change_password">Change Password</string>
+    <string name="str_verification_code">Verification Code</string>
+    <string name="reset_your_password">Reset your password</string>
+    <string name="login_your_again">Login again</string>
+    <string name="str_email_access">Email Access</string>
+    <string name="str_new_password">New Password</string>
+    <string name="str_confirm_new_password">Confirm New Password</string>
+    <string name="str_terms_and_conditions">Terms and Conditions</string>
+    <string name="str_email_link_sent">Email Link Sent</string>
+    <string name="str_check_your_email">Please check your email\n
+for password reset instructions</string>
+    <string name="str_continue">Continue</string>
+
+    <!--    Text for DrawerLayout-->
+    <string name="str_home">Home</string>
+    <string name="str_about_us">About Us</string>
+    <string name="str_contact">Contact</string>
+    <string name="str_share">Share</string>
+    <string name="str_profile">Profile</string>
+    <string name="str_setting">Setting</string>
+    <string name="str_sign_in">Sign in</string>
+    <string name="str_sign_up">Sign up</string>
+    <string name="str_logout">Log out</string>
+
+    <!--    Text for Settings-->
+    <string name="str_notification">Notifications</string>
+    <string name="str_change_language">Change language</string>
+    <string name="str_term_policies">Terms &amp; Policies</string>
+
+    <!--    Text for Company Page-->
+    <string name="str_complete_request">Complete Your Request for Quotation</string>
+    <string name="str_phone">Phone</string>
+    <string name="str_product_keyword">Products/Keyword</string>
+    <string name="str_subcategory">Sub-Category</string>
+    <string name="str_specification">Specification</string>
+    <string name="str_detailed_specification">Product Detailed Specification</string>
+
+    <string name="str_pdf_documents">PDF Documents</string>
+    <string name="str_video">Videos</string>
+    <string name="str_images">Images</string>
+    <string name="str_unit">Unit</string>
+    <string name="str_pieces">Pieces</string>
+    <string name="str_upload_attachment">Upload attachments</string>
+    <string name="str_upload">Upload</string>
+
+    <string name="str_tender">Tender</string>
+    <string name="str_media">Media</string>
+    <string name="str_map">Map</string>
+    <string name="str_rfq">RFQ</string>
+
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+
+    <string name="str_manufacturers">Manufacturers</string>
+    <string name="str_traders">Traders</string>
+    <string name="str_service_companies">Service Companies</string>
+    <string name="str_keywords">Keywords</string>
+    <string name="str_city">City</string>
+    <string name="str_selector">Sector</string>
+    <string name="str_country">Country</string>
+    <string name="str_search_company">Search Company</string>
+
+    <string name="str_overview">Overview</string>
+    <string name="str_products">Products</string>
+    <string name="str_no_products">No Products</string>
+    <string name="str_no_category">No Categories</string>
+    <string name="str_year_established">Year Established</string>
+    <string name="str_website">Website</string>
+
+    <string name="str_find_company">Find Company</string>
+
+    <string name="str_address_value">%1$s - %2$s</string>
+    <string name="str_error">Error</string>
+
+    <string name="str_empty_name">Please enter name</string>
+    <string name="str_invalid_name">Please input valid name</string>
+    <string name="str_empty_mobile">Please enter mobile number</string>
+    <string name="str_invalid_mobile">Please input valid mobile number</string>
+    <string name="str_not_match_password">Please enter same password</string>
+    <string name="str_select_caetegory">Please select category</string>
+    <string name="str_empty_code">Please input OTP code</string>
+    <string name="str_invalid_verify_code">Please enter valid OTP Code</string>
+    <string name="str_submit">Submit</string>
+    <string name="str_select_image">Select Image</string>
+
+    <string name="str_feeds">Feeds</string>
+    <string name="str_requests_msg">FRIENDS REQUESTS</string>
+    <string name="str_visitor">Visitor</string>
+
+    <!--    Company Profile Home page-->
+    <string name="str_membership_status">Membership Status</string>
+    <string name="str_school">School</string>
+    <string name="str_university">University</string>
+    <string name="str_work">Work</string>
+    <string name="str_friends">Friends</string>
+    <string name="str_interests">Interests</string>
+    <string name="str_group">Groups</string>
+    <string name="str_add_more">+ Add more</string>
+    <string name="str_language">Language</string>
+    <string name="str_update_photo">Update Your Photo</string>
+    <string name="str_banner_photo">Banner Photo</string>
+    <string name="str_save">Save</string>
+    <string name="str_select_interest">Select your interest</string>
+    <string name="str_find_interest">Find interest</string>
+
+    <string name="str_no_search_result">No Search Results</string>
+    <string name="str_quantity">Quantity</string>
+    <string name="str_accept">Accept</string>
+    <string name="str_add_feed">Add Feed</string>
+    <string name="str_feed_description">Feed Description</string>
+    <string name="str_write_your_feed">Write your feed</string>
+    <string name="str_select_file">Select File</string>
+    <string name="str_post">Post</string>
+    <string name="str_delete_feed">Delete Feed</string>
+    <string name="str_delete_this_post">Delete this post?</string>
+    <string name="str_yes">Yes</string>
+    <string name="str_cancel">Cancel</string>
+
+    <string name="str_upload_photo">Upload Photo</string>
+    <string name="str_add_video">Add Video</string>
+    <string name="str_show_in_public_videos">Show in public videos</string>
+    <string name="str_youtube_url">Youtube URL</string>
+    <string name="str_enter_youtube_url">Enter Youtube URL</string>
+    <string name="str_add">Add</string>
+
+    <string name="str_job_title">Job Title</string>
+    <string name="str_job_type">Job Type</string>
+    <string name="str_job_category">Job Category</string>
+    <string name="str_job_description">Job Description</string>
+
+    <string name="str_locations">Locations</string>
+    <string name="str_find_your_interest">Find your interest</string>
+    <string name="str_find_category_sector">Find your Category/Sector</string>
+
+    <string name="str_add_job">Add Job</string>
+    <string name="str_salary">Salary</string>
+    <string name="str_no_of_vacancies">No. of Vacancies</string>
+    <string name="str_application_start_date">Application Start Date</string>
+    <string name="str_application_end_date">Application End Date</string>
+    <string name="str_age">Age</string>
+    <string name="str_add_product">Add Product</string>
+    <string name="str_product_features_description">Product Features and Description</string>
+    <string name="str_price">Price</string>
+    <string name="str_attribute">Attributes</string>
+    <string name="str_upload_product_image">Upload Product Images</string>
+    <string name="str_add_attribute">Add Attributes</string>
+    <string name="str_others">Others</string>
+    <string name="str_add_color">Add Color</string>
+    <string name="str_maximum_3_files">*Maximum 3 files</string>
+
+    <string name="str_product_colors">Product Colors</string>
+    <string name="str_product_size">Product Size</string>
+    <string name="str_password_change_success">Password has been changed successfully</string>
+    <string name="str_pending_requests">Pending Requests</string>
+    <string name="str_contact_suggestion">Contact Suggestion</string>
+    <string name="str_sent_request">Sent Requests</string>
+
+    <string name="str_hide">Hide</string>
+    <string name="str_show">Show</string>
+    <string name="str_edit_job">Edit Job</string>
+    <string name="str_update">Update</string>
+    <string name="str_empty_keyword">Please input Keyword</string>
+    <string name="str_empty_file">Please select image</string>
+    <string name="str_empty_URL">Please enter URL</string>
+    <string name="str_visitor_number">Visitors Number %d</string>
+    <string name="str_my_job">My Jobs</string>
+    <string name="str_connections">Connections</string>
+    <string name="str_jobs">Jobs</string>
+    <string name="str_new_collection">New Collection</string>
+    <string name="str_attachment">Attachments</string>
+    <string name="str_make_sure_valid_field">Please make sure all fields are valid</string>
+    <string name="str_select_one_id">You need select at least one item</string>
+    <string name="str_update_profile">Update Profile</string>
+    <string name="str_established_year">Established Year*</string>
+    <string name="str_type_business">Type of Business*</string>
+    <string name="str_postal_code">Postal Code*</string>
+    <string name="str_land_line">Landline*</string>
+    <string name="str_description">Description</string>
+    <string name="str_selected_colors">Selected Colors</string>
+    <string name="str_size_small">Small</string>
+    <string name="str_size_medium">Medium</string>
+    <string name="str_size_large">Large</string>
+    <string name="str_size_xlarge">XL</string>
+    <string name="str_colors">Colors</string>
+    <string name="str_sizes">Sizes</string>
+    <string name="str_edit_product">Edit Product</string>
+
+    <string name="str_find_job">Find Jobs</string>
+    <string name="str_about_the_company">About the Company</string>
+    <string name="str_job_information">Job Information</string>
+    <string name="str_apply">Apply</string>
+    <string name="str_applicants">Applicants</string>
+    <string name="str_companies">Companies</string>
+    <string name="str_photos">Photos</string>
+    <string name="str_find_media">Find Media</string>
+    <string name="str_no_data">No Data</string>
+
+    <string name="str_product_title">Product title</string>
+    <string name="str_edit">Edit</string>
+
+    <string name="str_ok">Ok</string>
+    <string name="str_search_results">Search results</string>
+
+    <string name="str_networking">Networking</string>
+    <string name="str_members">Members</string>
+    <string name="str_search_community">Search Community</string>
+    <string name="str_add_group">Add Group</string>
+    <string name="str_group_title">Group Title</string>
+    <string name="str_upload_group_cover">Upload Group Cover</string>
+    <string name="str_cover_image_dimension">Cover image has to have dimension 562X131</string>
+
+    <string name="str_about">About</string>
+    <string name="str_activities">Activities</string>
+    <string name="str_delete_group">Delete Group</string>
+    <string name="str_query_delete_group">Delete this group?</string>
+    <string name="str_add_new_feed">Add New Feed</string>
+    <string name="str_select_group">Select Group</string>
+    <string name="str_feed_title">Feed Title</string>
+    <string name="str_upload_feed_photo">Upload Feed Photo</string>
+    <string name="str_add_thread">Add thread</string>
+    <string name="str_subject">Subject</string>
+    <string name="str_text">Text</string>
+
+    <string name="str_date">Date</string>
+    <string name="str_time">Time</string>
+
+    <string name="str_event_title">Event Title</string>
+
+    <string name="str_cover_image">Cover Image</string>
+    <string name="str_add_event">Add Event</string>
+    <string name="str_edit_event">Edit Event</string>
+    <string name="str_delete">Delete</string>
+    <string name="str_add_photo">Add Photo</string>
+
+    <string name="str_find_community">Find Community</string>
+    <string name="str_search_member">Search Member</string>
+    <string name="str_edit_group">Edit Group</string>
+
+    <string name="str_venue">Venue</string>
+    <string name="str_add_image">Add Image</string>
+
+    <string name="str_add_tender">Add Tender</string>
+    <string name="str_write_message">Write your message…</string>
+
+    <string name="str_feed_length_limit_20">Post your feed description 20 characters maximum</string>
+    <string name="str_select_your_sector">Select your sector</string>
+    <string name="str_find_your_sector">Find your sector</string>
+    <string name="str_thread">Thread</string>
+    <string name="str_write_comment">Write your comment…</string>
+    <string name="str_community">Community</string>
+    <string name="str_news_feed">News Feed</string>
+    <string name="str_discussions">Discussions</string>
+    <string name="str_events">Events</string>
+    <string name="facebook_app_id">3423168021073935</string>
+    <string name="fb_login_protocol_scheme">fb3423168021073935</string>
+    <string name="str_sultanate_oman">Sultanate of Oman</string>
+    <string name="str_muscat">Muscat</string>
+    <string name="str_empty_tender">Please select file</string>
+    <string name="str_business_type">Business Type*</string>
+    <string name="str_select_business_category">Select Business Category</string>
+
+</resources>

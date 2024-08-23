@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center"
+    android:id="@+id/layout_root"
+    android:orientation="vertical">
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginStart="16dp"
+       android:layout_marginEnd="16dp"
+       android:orientation="vertical"
+       android:paddingTop="20dp"
+       android:paddingStart="16dp"
+       android:paddingEnd="16dp"
+       android:background="@color/color_white"
+       android:paddingBottom="20dp">
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:textSize="26sp"
+           android:textColor="#222B45"
+           android:textStyle="bold"
+           android:text="@string/str_update_photo"
+           android:layout_gravity="center_horizontal"/>
+
+       <androidx.constraintlayout.widget.ConstraintLayout
+           android:layout_width="match_parent"
+           android:layout_marginTop="6dp"
+           android:layout_height="wrap_content">
+
+           <de.hdodenhof.circleimageview.CircleImageView
+               android:id="@+id/iv_dialog_profile"
+               android:layout_width="120dp"
+               android:layout_height="120dp"
+               app:layout_constraintTop_toTopOf="parent"
+               app:layout_constraintEnd_toEndOf="parent"
+               app:civ_border_color="@color/color_light_gray"
+               app:civ_border_width="1dp"
+               app:layout_constraintStart_toStartOf="parent"/>
+
+           <RelativeLayout
+               android:id="@+id/layout_edit_logo"
+               android:layout_width="24dp"
+               android:layout_height="24dp"
+               app:layout_constraintCircle="@id/iv_dialog_profile"
+               app:layout_constraintCircleAngle="135"
+               app:layout_constraintCircleRadius="60dp"
+               app:layout_constraintBottom_toBottomOf="parent"
+               app:layout_constraintEnd_toEndOf="parent"
+               android:gravity="center">
+
+               <ImageView
+                   android:layout_width="match_parent"
+                   android:layout_height="match_parent"
+                   android:background="@drawable/ic_accent_background_circle"/>
+
+               <ImageView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_centerInParent="true"
+                   android:src="@drawable/ic_camera_small"/>
+
+           </RelativeLayout>
+
+       </androidx.constraintlayout.widget.ConstraintLayout>
+
+       <androidx.constraintlayout.widget.ConstraintLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content">
+
+           <TextView
+               android:id="@+id/tv_banner"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               app:layout_constraintTop_toTopOf="parent"
+               app:layout_constraintStart_toStartOf="parent"
+               android:text="@string/str_banner_photo"
+                style="@style/textFontLight"
+               android:textSize="20sp"
+               android:textColor="#ACB1C0"/>
+
+           <ImageView
+               android:id="@+id/iv_dialog_banner"
+               android:layout_width="0dp"
+               android:layout_height="180dp"
+               android:layout_marginTop="8dp"
+               app:layout_constraintEnd_toEndOf="parent"
+               app:layout_constraintHorizontal_bias="0.0"
+               app:layout_constraintStart_toStartOf="parent"
+               app:layout_constraintTop_toBottomOf="@id/tv_banner" />
+
+           <RelativeLayout
+               android:id="@+id/layout_edit_banner"
+               android:layout_width="45dp"
+               android:layout_height="45dp"
+               app:layout_constraintTop_toTopOf="parent"
+               android:layout_marginTop="12dp"
+               app:layout_constraintEnd_toEndOf="parent"
+               android:gravity="center">
+
+               <ImageView
+                   android:layout_width="match_parent"
+                   android:layout_height="match_parent"
+                   android:background="@drawable/ic_accent_background_circle"/>
+
+               <ImageView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_centerInParent="true"
+                   android:src="@drawable/ic_camera_large"/>
+
+           </RelativeLayout>
+
+       </androidx.constraintlayout.widget.ConstraintLayout>
+
+       <TextView
+           android:id="@+id/tv_done"
+           android:layout_width="match_parent"
+           android:layout_height="54dp"
+           android:background="@drawable/ic_round_accent_background_12"
+           android:layout_marginTop="55dp"
+           android:backgroundTint="#fbc565"
+           android:textColor="@color/color_white"
+           android:textSize="20sp"
+           android:textAlignment="center"
+           android:gravity="center"
+           android:text="@string/str_save" />
+
+   </LinearLayout>
+</LinearLayout>

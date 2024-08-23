@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.activity.ContactActivity">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar_utils"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="54dp"
+        android:background="@drawable/ic_round_accent_background_12"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="#fbc565"
+        android:textColor="@color/color_black"
+        android:textSize="18sp"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:text="@string/str_contact"
+        android:textAllCaps="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:textAlignment="viewStart"
+
+        android:layout_marginTop="20dp"
+        android:text="@string/str_contact"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="+968- 99838141"
+        android:textAlignment="viewStart"
+
+        android:layout_marginTop="3dp"
+        android:layout_marginStart="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/str_sultanate_oman"
+        android:textAlignment="viewStart"
+        android:layout_marginTop="3dp"
+        android:layout_marginStart="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="3dp"
+        android:textAlignment="viewStart"
+
+        android:text="@string/str_muscat"/>
+
+</LinearLayout>

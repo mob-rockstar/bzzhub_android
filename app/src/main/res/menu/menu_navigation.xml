@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/company"
+        android:icon="@drawable/ic_company_active"
+        android:title="@string/str_company" />
+
+    <item
+        android:id="@+id/community"
+        android:icon="@drawable/ic_community_deactive"
+        android:title="@string/str_community" />
+
+    <item
+        android:id="@+id/job"
+        android:icon="@drawable/ic_job_deactivate"
+        android:title="@string/str_jobs" />
+
+    <item
+        android:id="@+id/media"
+        android:icon="@drawable/ic_media_deactive"
+        android:title="@string/str_media" />
+
+</menu>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1056574796162",
+    "firebase_url": "https://bzzhub.firebaseio.com",
+    "project_id": "bzzhub",
+    "storage_bucket": "bzzhub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056574796162:android:ae18c3783ff6fa9a119f9b",
+        "android_client_info": {
+          "package_name": "smartdev.bzzhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056574796162-k7qcdsd6adc23q6cvo4n7pleqrona3up.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "smartdev.bzzhub",
+            "certificate_hash": "466c29bdd357a54421921957224a83888623294b"
+          }
+        },
+        {
+          "client_id": "1056574796162-lq018va5f3hu06eskagqicrae704cvmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANXxjZjv2-S8XfICgG2DXHBqZ82BOKRug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056574796162-lq018va5f3hu06eskagqicrae704cvmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,308 @@
+<resources>
+    <string name="app_name">Bzzhub</string>
+
+    <string name="map_api_key">AIzaSyD8kL6OfvHjqRsQsIHauXVLfY7rPFywnJg</string>
+    <string name="channel_id">BzHub_Channel_id</string>
+    <!--    Texts in Onboarding flow-->
+    <string name="str_skip">تخطي</string>
+    <string name="str_connect">متابعة</string>
+    <string name="str_txt_connect">تواصل مع افضل الشركات التي توفر لك خدمات متميزات عبر تطبيق BzzHub</string>
+    <string name="str_next">التالي</string>
+
+    <string name="str_global_business">الشركات العالمية</string>
+    <string name="str_content_global_business">اكتشف الحلول السريعة عبر العالم</string>
+    <string name="str_search">بحث</string>
+    <string name="str_content_search">Discover Restaurants offering the best
+fast food near you on Foodwa</string>
+
+    <!--    Texts in Login flow-->
+    <string name="str_welcome">أهلا وسهلاً</string>
+    <string name="str_email_address">البريد الالكتروني</string>
+    <string name="str_password">كلمة المرور</string>
+    <string name="str_remember_me">تذكرني</string>
+    <string name="str_forgot_password">نسيت كلمة المرور؟</string>
+    <string name="str_or">أو</string>
+    <string name="str_facebook">فيس بوك</string>
+    <string name="str_login">دخول</string>
+    <string name="str_dont_have_account">ليس لديك حساب؟</string>
+    <string name="str_join_us">انضم لنا</string>
+    <string name="str_empty_email">الرجاء إدخال البريد الالكتروني</string>
+    <string name="str_invalid_email">البريد الالكتروني غير صحيح</string>
+    <string name="str_empty_password">الرجاء إدخال كلمة المرور</string>
+    <string name="str_invalid_password">كلمة المرور تتكون من ٦ حروف عالأقل</string>
+    <string name="str_member">أفراد</string>
+    <string name="str_company">شركات</string>
+    <string name="str_name">الاسم</string>
+    <string name="str_email">البريد الالكتروني</string>
+    <string name="str_mobile">الهاتف</string>
+    <string name="str_password_sign_up">كلمة المرور</string>
+    <string name="str_confirm_password">تأكيد كلمة المرور</string>
+    <string name="str_accept_term_policy">موافق على الشروط والأحكام الخاصة بالتطبيق</string>
+    <string name="str_join_now">انضم لنا</string>
+    <string name="str_or_sign_in">او سجل دخول</string>
+    <string name="str_company_name">اسم الشركة</string>
+    <string name="str_category">التصنيف</string>
+    <string name="str_business_category">التصنيف الفرعي</string>
+    <string name="str_select">اختر</string>
+
+    <string name="str_change_password">تغيير كلمة المرور</string>
+    <string name="str_verification_code">رمز التحقق</string>
+    <string name="reset_your_password">إعادة تعيين كلمة المرور</string>
+    <string name="login_your_again">سجل الدخول مجدداً</string>
+    <string name="str_email_access">البريد الالكتروني</string>
+    <string name="str_new_password">كلمة المرور الجديدة</string>
+    <string name="str_confirm_new_password">تأكيد كلمة المرور الجديدة</string>
+    <string name="str_terms_and_conditions">الشروط والأحكام</string>
+    <string name="str_email_link_sent">تم إرسال البريد الالكتروني</string>
+    <string name="str_check_your_email">الرجاء التأكد من البريد الالكتروني لإعادة تعيين كلمة المرور</string>
+    <string name="str_continue">استمر</string>
+
+    <!--    Text for DrawerLayout-->
+    <string name="str_home">الرئيسية</string>
+    <string name="str_about_us">عن التطبيق</string>
+    <string name="str_contact">تواصل معنا</string>
+    <string name="str_share">مشاركة</string>
+    <string name="str_profile">الملف الشخصي</string>
+    <string name="str_setting">الإعدادات</string>
+    <string name="str_sign_in">دخول</string>
+    <string name="str_sign_up">حساب جديد</string>
+    <string name="str_logout">خروج</string>
+
+    <!--    Text for Settings-->
+    <string name="str_notification">الإشعارات</string>
+    <string name="str_change_language">تغيير اللغة</string>
+    <string name="str_term_policies">الشروط  و الأحكام</string>
+
+    <!--    Text for Company Page-->
+    <string name="str_complete_request">اكمل التسجيل لكافة البيانات المطلوبة</string>
+    <string name="str_phone">الهاتف</string>
+    <string name="str_product_keyword">كلمات مفتاحية</string>
+    <string name="str_subcategory">التصنيف الفرعي</string>
+    <string name="str_specification">المواصفات</string>
+    <string name="str_detailed_specification">تفاصيل المنتج</string>
+
+    <string name="str_pdf_documents">المرفقات</string>
+    <string name="str_video">المقاطع المرئية</string>
+    <string name="str_images">الصور</string>
+    <string name="str_unit">الوحدة</string>
+    <string name="str_pieces">القطع</string>
+    <string name="str_upload_attachment">رفع المرفقات</string>
+    <string name="str_upload">رفع</string>
+
+    <string name="str_tender">مناقصة</string>
+    <string name="str_media">الوسائط</string>
+    <string name="str_map">الخريطة</string>
+    <string name="str_rfq">طلب عرض</string>
+
+    <string name="navigation_drawer_open">فتح</string>
+    <string name="navigation_drawer_close">إغلاق</string>
+
+    <string name="str_manufacturers">المصنعون</string>
+    <string name="str_traders">التجار</string>
+    <string name="str_service_companies">خدمات الشركات</string>
+    <string name="str_keywords">كلمات مفتاحية</string>
+    <string name="str_city">المدينة</string>
+    <string name="str_selector">القطاع</string>
+    <string name="str_country">الدولة</string>
+    <string name="str_search_company">بحث</string>
+
+    <string name="str_overview">وصف</string>
+    <string name="str_products">المنتجات</string>
+    <string name="str_no_products">لا يوجد منتجات</string>
+    <string name="str_no_category">لا يوجد تصنيف</string>
+    <string name="str_year_established">سنة الإنشاء</string>
+    <string name="str_website">الموقع</string>
+
+    <string name="str_find_company">البحث عن شركة</string>
+
+    <string name="str_address_value">%1$s - %2$s</string>
+    <string name="str_error">خطأ</string>
+
+    <string name="str_empty_name">الرجاء إدخال الاسم</string>
+    <string name="str_invalid_name">الاسم غير صحيح</string>
+    <string name="str_empty_mobile">الرجاء إدخال رقم الهاتف</string>
+    <string name="str_invalid_mobile">رقم الهاتف غير صحيح</string>
+    <string name="str_not_match_password">الرجاء إدخال كلمة مرور متطابقة</string>
+    <string name="str_select_caetegory">الرجاء اختيار التصنيف</string>
+    <string name="str_empty_code">الرجاء إدخال رمز التحقق </string>
+    <string name="str_invalid_verify_code">الرجاء إدخال كود صحيح</string>
+    <string name="str_submit">إرسال</string>
+    <string name="str_select_image">اختر صورة</string>
+
+    <string name="str_feeds">المنشورات</string>
+    <string name="str_requests_msg">طلبات الصداقة</string>
+    <string name="str_visitor">الزوار</string>
+
+    <!--    Company Profile Home page-->
+    <string name="str_membership_status">حالة الانضمام</string>
+    <string name="str_school">المدرسة</string>
+    <string name="str_university">الجامعة</string>
+    <string name="str_work">العمل</string>
+    <string name="str_friends">الأصدقاء</string>
+    <string name="str_interests">الاهتمامات</string>
+    <string name="str_group">المجموعات</string>
+    <string name="str_add_more">إضافة +</string>
+    <string name="str_language">اللغة</string>
+    <string name="str_update_photo">تعديل الصورة</string>
+    <string name="str_banner_photo">الصورة</string>
+    <string name="str_save">حفظ</string>
+    <string name="str_select_interest">اختر الاهتمامات</string>
+    <string name="str_find_interest">البحث عن الاهتمامات</string>
+
+    <string name="str_no_search_result">لا يوجد نتائج</string>
+    <string name="str_quantity">الكمية</string>
+    <string name="str_accept">موافق</string>
+    <string name="str_add_feed">اضف منشور</string>
+    <string name="str_feed_description">الوصف</string>
+    <string name="str_write_your_feed">اكتب الوصف</string>
+    <string name="str_select_file">اختر الملف</string>
+    <string name="str_post">إرسال</string>
+    <string name="str_delete_feed">حذف</string>
+    <string name="str_delete_this_post">هل تريد الحذف؟</string>
+    <string name="str_yes">نعم</string>
+    <string name="str_cancel">لا</string>
+
+    <string name="str_upload_photo">رفع صورة</string>
+    <string name="str_add_video">إضافة مقطع مرئي</string>
+    <string name="str_show_in_public_videos">إظهار المقطع للجميع</string>
+    <string name="str_youtube_url">رابط يوتيوب</string>
+    <string name="str_enter_youtube_url">أدخل رابط اليوتيوب</string>
+    <string name="str_add">إضافة</string>
+
+    <string name="str_job_title">عنوان الوظيفة</string>
+    <string name="str_job_type">نوع الوظيفة</string>
+    <string name="str_job_category">التصنيف</string>
+    <string name="str_job_description">وصف الوظيفة</string>
+
+    <string name="str_locations">المواقع</string>
+    <string name="str_find_your_interest">البحث عن اهتمام</string>
+    <string name="str_find_category_sector">البث عن تصنيف</string>
+
+    <string name="str_add_job">إضافة وظيفة</string>
+    <string name="str_salary">الراتب</string>
+    <string name="str_no_of_vacancies">أيام الإجازة</string>
+    <string name="str_application_start_date">تاريخ بدء التقديم</string>
+    <string name="str_application_end_date">تاريخ انتهاء التقديم</string>
+    <string name="str_age">العمر</string>
+    <string name="str_add_product">إضافة منتج</string>
+    <string name="str_product_features_description">وصف ومزايا المنتج</string>
+    <string name="str_price">السعر</string>
+    <string name="str_attribute">المواصفات</string>
+    <string name="str_upload_product_image">رفع الصور</string>
+    <string name="str_add_attribute">إضافة خصائص</string>
+    <string name="str_others">أخرى</string>
+    <string name="str_add_color">إضافة لون</string>
+    <string name="str_maximum_3_files">٣ صور فقط</string>
+
+    <string name="str_product_colors">الوان المنتج</string>
+    <string name="str_product_size">حجم المنتج</string>
+    <string name="str_password_change_success">تم تغيير كلمة المرور بنجاح</string>
+    <string name="str_pending_requests">الطلبات المعلقة</string>
+    <string name="str_contact_suggestion">الاقتراحات</string>
+    <string name="str_sent_request">الطلبات المرسلة</string>
+
+    <string name="str_hide">إخفاء</string>
+    <string name="str_show">إظهار</string>
+    <string name="str_edit_job">تعديل الوظيفة</string>
+    <string name="str_update">تحديث</string>
+    <string name="str_empty_keyword">الرجاء ادخال الكلمات المفتاحية</string>
+    <string name="str_empty_file">الرجاء اختر صورة</string>
+    <string name="str_empty_URL">الرجاء إدخال الرابط</string>
+    <string name="str_visitor_number">عدد الزوار %d</string>
+    <string name="str_my_job">وظائفي</string>
+    <string name="str_connections">العلاقات</string>
+    <string name="str_jobs">الوظائف</string>
+    <string name="str_new_collection">مجموعة جديدة</string>
+    <string name="str_attachment">المرفقات</string>
+    <string name="str_make_sure_valid_field">الرجاء التأكد من صحة البيانات</string>
+    <string name="str_select_one_id">اختر واحد عالأقل</string>
+    <string name="str_update_profile">تعديل الملف الشخصي</string>
+    <string name="str_established_year">تاريخ الانشاء</string>
+    <string name="str_type_business">نوع العمل</string>
+    <string name="str_postal_code">الرمز البريدي</string>
+    <string name="str_land_line">رقم الهاتف</string>
+    <string name="str_description">الوصف</string>
+    <string name="str_selected_colors">الألوان المختارة</string>
+    <string name="str_size_small">صغير</string>
+    <string name="str_size_medium">وسط</string>
+    <string name="str_size_large">كبير</string>
+    <string name="str_size_xlarge">كبير جداً</string>
+    <string name="str_colors">الألوان</string>
+    <string name="str_sizes">الاحجام</string>
+    <string name="str_edit_product">تعديل المنتج</string>
+
+    <string name="str_find_job">بحث</string>
+    <string name="str_about_the_company">عن الشركة</string>
+    <string name="str_job_information">معلومات الوظيفة</string>
+    <string name="str_apply">تقديم</string>
+    <string name="str_applicants">المتقدمين</string>
+    <string name="str_companies">الشركات</string>
+    <string name="str_photos">الصور</string>
+    <string name="str_find_media">ابحث</string>
+    <string name="str_no_data">لا يوجد بيانات</string>
+
+    <string name="str_product_title">عنوان المنتج</string>
+    <string name="str_edit">تعديل</string>
+
+    <string name="str_ok">موافق</string>
+    <string name="str_search_results">نتائج البحث</string>
+
+    <string name="str_networking">العلاقات</string>
+    <string name="str_members">الأفراد</string>
+    <string name="str_search_community">البحث عن مجموعة</string>
+    <string name="str_add_group">إضافة مجموعة</string>
+    <string name="str_group_title">عنوان المجموعة</string>
+    <string name="str_upload_group_cover">رفع صورة المجموعة</string>
+    <string name="str_cover_image_dimension">أبعاد الصورة 562X131 </string>
+
+    <string name="str_about">عنا</string>
+    <string name="str_activities">الانشطة</string>
+    <string name="str_delete_group">حذف المجموعة</string>
+    <string name="str_query_delete_group">هل تريد حذف المجموعة؟</string>
+    <string name="str_add_new_feed">اضافة منشور جديد</string>
+    <string name="str_select_group">اختر مجموعة</string>
+    <string name="str_feed_title">العنوان</string>
+    <string name="str_upload_feed_photo">رفع الصورة</string>
+    <string name="str_add_thread">اضف موضوع</string>
+    <string name="str_subject">الموضوع</string>
+    <string name="str_text">النص</string>
+
+    <string name="str_date">التاريخ</string>
+    <string name="str_time">الوقت</string>
+
+    <string name="str_event_title">عنوان الفعالية</string>
+
+    <string name="str_cover_image">صورة الغلاف</string>
+    <string name="str_add_event">إضافة فعالية</string>
+    <string name="str_edit_event">تعديل الفعالية</string>
+    <string name="str_delete">حذف</string>
+    <string name="str_add_photo">إضافة صورة</string>
+
+    <string name="str_find_community">البحث عن مجموعة</string>
+    <string name="str_search_member">البحث عن أعضاء</string>
+    <string name="str_edit_group">تعديل المجموعة</string>
+
+    <string name="str_venue">المكان</string>
+    <string name="str_add_image">أضف صورة</string>
+
+    <string name="str_add_tender">اضف مناقصة</string>
+    <string name="str_write_message">اكتب النص ..</string>
+    
+    <string name="str_feed_length_limit_20">يجب ان لا يتجاوز المنشور عن ٢٠ كلمة</string>
+    <string name="str_select_your_sector">اختر القطاع</string>
+    <string name="str_find_your_sector">ابحث عن القطاع</string>
+    <string name="str_thread">الموضوع</string>
+    <string name="str_write_comment">اكتب التعليق ...</string>
+    <string name="str_community">مجموعة</string>
+    <string name="str_news_feed">المنشورات الجديدة</string>
+    <string name="str_discussions">المناقشات</string>
+    <string name="str_events">الفعاليات</string>
+    <string name="facebook_app_id">3423168021073935</string>
+    <string name="fb_login_protocol_scheme">fb3423168021073935</string>
+    <string name="str_sultanate_oman">سلطنة عُمان</string>
+    <string name="str_muscat">مسقط</string>
+    <string name="str_empty_tender">الرجاء اختيار ملف</string>
+    <string name="str_business_type">Business Type*</string>
+    <string name="str_select_business_category">Select Business Category</string>
+
+</resources>

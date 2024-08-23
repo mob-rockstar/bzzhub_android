@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_white"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ui.activity.OnboardingActivity">
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:layout_above="@+id/dots_indicator"/>
+
+    <com.tbuonomo.viewpagerdotsindicator.SpringDotsIndicator
+        android:id="@+id/dots_indicator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="false"
+        android:focusable="false"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="48dp"
+        app:dotsColor="@color/color_black"
+        app:dotsStrokeColor="@color/color_light_gray"
+        app:dotsStrokeWidth="2dp"
+        app:dotsCornerRadius="8dp"
+        app:dotsSize="16dp"
+        app:dampingRatio="1"
+        app:dotsSpacing="4dp"
+        app:progressMode="false"/>
+
+    <TextView
+        android:id="@+id/tv_skip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/str_skip"
+        android:textColor="@color/color_light_yellow"
+        android:layout_marginTop="24dp"
+        android:padding="4dp"
+        android:layout_marginEnd="20dp"/>
+    
+</RelativeLayout>
